@@ -1,0 +1,49 @@
+src/
+  main/
+    java/
+      com/
+        example/
+          Main.java
+          service/
+            UserService.java
+            DataService.java
+          model/
+            User.java
+            Product.java
+          controller/
+            UserController.java
+            ProductController.java
+    resources/
+      application.properties
+      static/
+        css/
+          style.css
+        js/
+          app.js
+      templates/
+        index.html
+        user.html
+  test/
+    java/
+      com/
+        example/
+          MainTest.java
+          service/
+            UserServiceTest.java
+            DataServiceTest.java
+target/
+docs/
+  README.md
+  API.md
+  CHANGELOG.md
+config/
+  database.properties
+  logging.properties
+scripts/
+  build.sh
+  deploy.sh
+  setup.py
+pom.xml
+.gitignore
+README.md
+LICENSE
