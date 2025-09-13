@@ -14,7 +14,7 @@ The tool reads a hierarchical structure from an input file (e.g., `repo.txt`) an
 - **Lightweight and Fast**: Minimal dependencies and quick execution.
 
 ## Repository
-This project is hosted on GitHub under the repository: [kganeshkumark](https://github.com/kganeshkumark/project-structure-generator).
+This project is hosted on GitHub under the repository: [kganeshkumark](https://github.com/kganeshkumark/kgk-project-structure-generator).
 
 ## Usage
 1. Clone the repository:
