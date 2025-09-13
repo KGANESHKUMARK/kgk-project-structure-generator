@@ -1,0 +1,16 @@
+spring-boot-backend
+├── src/main/java/com/example/springbootbackend
+│   ├── controller
+│   │   ├── HelloController.java
+│   │   └── UserController.java
+│   ├── entity
+│   │   └── User.java
+│   ├── repository
+│   │   └── UserRepository.java
+│   └── SpringBootBackendApplication.java
+├── src/main/resources
+│   └── application.properties
+├── src/test/java/com/example/springbootbackend
+│   ├── HelloControllerTest.java
+│   └── UserControllerTest.java
+└── pom.xml
